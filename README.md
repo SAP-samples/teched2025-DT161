@@ -13,7 +13,7 @@ Gear up for your first project with SAP Cloud ERP. Explore the implementation jo
 - [Intro](exercises/intro)
 - [Exercise 1 - Digital Discovery Assessment](exercises/ex1/)
 - [Exercise 2 - SAP Cloud ALM](exercises/ex2/)
-- [Exercise 3 - Central Business Configuration](exercises/ex2/)
+- [Exercise 3 - Central Business Configuration](exercises/Exercise 3 - CBC/)
 
 ## Contributing
 Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.
