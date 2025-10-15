@@ -113,4 +113,4 @@ the header)
 ![SAP BTP Account explorer - subdomain](./images/31.png)  
 
 ## Return to main exercise
-Return to Exercise 2 - SAP Cloud ALM - and continue with step 60: [Exercise 2 - SAP Cloud ALM](../ex3/Ex3-CBC.md)
+Return to Exercise 2 - SAP Cloud ALM - and continue with step 60: [Exercise 2 - SAP Cloud ALM](../ex2/Ex2-CALM.md)
