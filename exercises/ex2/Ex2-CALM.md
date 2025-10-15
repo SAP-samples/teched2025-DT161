@@ -322,5 +322,4 @@ the header)
 
 ![SAP BTP Account explorer - subdomain](./images/35.png) 
 
- 
-
+Continue to - [Exercise 3 - SAP Central Business Configuration](../ex3/Ex3-CBC.md)
