@@ -304,7 +304,7 @@ the header)
 
 99.	Next, click the `Analytics` symbol on the far left of the menu
 
-![SAP BTP Account explorer - subdomain]./images/32.png) 
+![SAP BTP Account explorer - subdomain](./images/32.png) 
 
 100.	Click the box titled `Solution Process Traceability`
 
