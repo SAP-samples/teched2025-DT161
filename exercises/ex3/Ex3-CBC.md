@@ -16,6 +16,8 @@ Key Features:
 
 At this point the handover of business scope from sales team to the implementation team is done and implementation can start using SAP Central Business Configuration.
 
+Workspace have been already precreated in the system for the excersie, nevertheless in a real implementaion you need to create the workspaces based on the system type: evaluation workspace to connect to starter system or/and implementation workspace to connect to the development system. More information on create workspaces can be found here: [Workspace Management](https://help.sap.com/docs/CENTRAL_BUSINESS_CONFIGURATION/55c9333eed324cd284f6c4e5dab8462f/c38f719c010d4191bb8f1cf8135f12f2.html?locale=en-US&version=LATEST).
+
 
 **Exercise:**
 
@@ -65,6 +67,7 @@ With this, you have completed the exercise.
 - [Configuration Localization Tool Restrictions and Limitations](https://me.sap.com/notes/3107866)
 - [Import Scope](https://education.hana.ondemand.com/education/pub/cbc/index.html?show=project%21PR_4CF48037E39416B7:uebung) as interactive tutorial or PDF 
 - [Import Scope](https://help.sap.com/docs/CENTRAL_BUSINESS_CONFIGURATION/55c9333eed324cd284f6c4e5dab8462f/4d6edb7e901c401bbafcd42ab06f2866.html?locale=en-US) documentation on SAP Help Portal
+
 
 
 
