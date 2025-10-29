@@ -5,11 +5,21 @@
 2.	Login with your Username and your password
 
     ```terraform
-    Username: DT161-###@education.cloud.sap
+For Berlin Teched only:
+    Username: DT161-0##@education.cloud.sap
     Password: Acce$$teched25
     ```
-
-**Note1:** The workspace is already available, and you have been assigned as a team member to start the implementation. Always use your `User Number` instead of the `###` in this and all subsequent steps.
+ ```terraform
+For Sydney Teched only
+    Username: DT161-1##@education.cloud.sap
+    Password: Acce$$teched25
+    ```
+ ```terraform
+For Banaglore Teched only 
+    Username: DT161-2##@education.cloud.sap
+    Password: Acce$$teched25
+    ```
+**Note1:** The workspace is already available, and you have been assigned as a team member to start the implementation. Always use your `CountryNumber  ( 0=Berlin, 1=Sydney, 2=Bangalore)` followed by `User Number` instead of the `##` in this and all subsequent steps.
 
 **Note 2:** Use the screenshots attached if you can`t find the right next click. The arrows in the screen shows the clicks. 
 
@@ -208,5 +218,6 @@ Select the item Specify Primary Finance Settings and click the symbol on the rig
 65.	Go to the `Start Page` (SAP logo), click your `User` (top right), and `Sign Out`
 
 ![SAP BTP Account explorer - subdomain](./images/35.png) 
+
 
 Continue to - [Exercise 3 - SAP Central Business Configuration](../ex3/Ex3-CBC.md)
