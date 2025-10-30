@@ -25,10 +25,9 @@ Workspace have been already precreated in the system for the excersie, neverthel
 
 2. Log on with the user credentials provided.  
 
->Note: The workspace is already available, and you have been assigned as a team member to start the implementation. 
+>Note: The workspace is already available, and you have been assigned as a team member to start the implementation. Go to the available *TRAIN-xxx_ML_DDA_Initial* workspace by choosing *Switch Workspace* in the Action column.
 
-
->*Assign Deployment Target* activity has been already completed for your workspace. You can view it or set it to *Completed*. In this step the connection between SAP Central Business Configuration workspace and S/4HANA tenant is done. 
+>*Assign Deployment Target* activity has been already completed for your workspace. You can view it or set it to *Completed*. In this step the connection between SAP Central Business Configuration workspace and S/4HANA tenant is done.
 
 3.	Open *Define Scope*.
 >Note: You can perform scoping  directly in the app or by importing a file that can be downloaded from the digital discovery assessment (DDA) tool. Either way, it’s recommended to implement no more than 5 countries/regions per wave. Scoping application will ensure that any dependencies or inconsistencies between the scenarios are considered. 
@@ -67,6 +66,7 @@ With this, you have completed the exercise.
 - [Configuration Localization Tool Restrictions and Limitations](https://me.sap.com/notes/3107866)
 - [Import Scope](https://education.hana.ondemand.com/education/pub/cbc/index.html?show=project%21PR_4CF48037E39416B7:uebung) as interactive tutorial or PDF 
 - [Import Scope](https://help.sap.com/docs/CENTRAL_BUSINESS_CONFIGURATION/55c9333eed324cd284f6c4e5dab8462f/4d6edb7e901c401bbafcd42ab06f2866.html?locale=en-US) documentation on SAP Help Portal
+
 
 
 
