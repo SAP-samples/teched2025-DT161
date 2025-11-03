@@ -4,24 +4,21 @@
 1.	Open SAP Cloud ALM in a new browser tab
 2.	Login with your Username and your password
 
-    ```terraform
-For Berlin Teched only:
+> For Berlin Teched only:
     Username: DT161-0##@education.cloud.sap
     Password: Acce$$teched25
-    ```
- ```terraform
-For Sydney Teched only
+
+> For Sydney Teched only
     Username: DT161-1##@education.cloud.sap
     Password: Acce$$teched25
-    ```
- ```terraform
-For Banaglore Teched only 
+ 
+> For Banaglore Teched only 
     Username: DT161-2##@education.cloud.sap
     Password: Acce$$teched25
-    ```
-**Note1:** The workspace is already available, and you have been assigned as a team member to start the implementation. Always use your `CountryNumber  ( 0=Berlin, 1=Sydney, 2=Bangalore)` followed by `User Number` instead of the `##` in this and all subsequent steps.
 
-**Note 2:** Use the screenshots attached if you can`t find the right next click. The arrows in the screen shows the clicks. 
+> **Note1:** The workspace is already available, and you have been assigned as a team member to start the implementation. Always use your `CountryNumber  ( 0=Berlin, 1=Sydney, 2=Bangalore)` followed by `User Number` instead of the `##` in this and all subsequent steps.
+
+> **Note 2:** Use the screenshots attached if you can`t find the right next click. The arrows in the screen shows the clicks. 
 
 In case the screen looks different, check your filter settings or use the Browser refresh to reload the page. You can also always go back to your last screen with the in-App Back Button , top left corner (!)
 
