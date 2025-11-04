@@ -198,23 +198,25 @@ Select the item Specify Primary Finance Settings and click the symbol on the rig
 
 60.	Next, click the `Analytics` symbol on the far left of the menu
 
-![SAP BTP Account explorer - subdomain](./images/32.png) 
-
 61.	Click the box titled `Solution Process Traceability`
+
+![SAP BTP Account explorer - subdomain](./images/33.png) 
 
 62.	When you hover the mouse over the colored bars, more information appears
 
-![SAP BTP Account explorer - subdomain](./images/33.png) 
+![SAP BTP Account explorer - subdomain](./images/34.png) 
  
 63.	Click on `Indirect Assignments`, then slide the toggle next to Defect to the right, and click `OK`
 
-![SAP BTP Account explorer - subdomain](./images/34.png) 
+![SAP BTP Account explorer - subdomain](./images/35.png) 
+
+
  
 64.	The `Defects column` now appears in the overview
 
 65.	Go to the `Start Page` (SAP logo), click your `User` (top right), and `Sign Out`
 
-![SAP BTP Account explorer - subdomain](./images/35.png) 
+
 
 
 Continue to - [Exercise 3 - SAP Central Business Configuration](../ex3/Ex3-CBC.md)
