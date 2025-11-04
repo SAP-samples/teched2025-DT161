@@ -1,7 +1,7 @@
 # Getting Started in SAP Cloud ALM – 30min
 
 ## Exercise: 
-1.	Open SAP Cloud ALM in a new browser tab
+1.	Open SAP Cloud ALM in a new browser tab  --> https://calm-cbc-khhsnt8n.eu10-004.alm.cloud.sap/
 2.	Login with your Username and your password
 
 > **For Berlin Teched only:**
@@ -218,3 +218,4 @@ Select the item Specify Primary Finance Settings and click the symbol on the rig
 
 
 Continue to - [Exercise 3 - SAP Central Business Configuration](../ex3/Ex3-CBC.md)
+
