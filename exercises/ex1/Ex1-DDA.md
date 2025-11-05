@@ -3,17 +3,18 @@
 ## 1. Setup your user
 
 1. Open Google Chrome
-2. Navigate to
+2. Navigate to [accounts.sap.com](https://accounts.sap.com/ui/protected/profilemanagement)
+3. Login with your S- or P- user ID. This will ensure that you have access after TechEd as well.
+
+> In case you do not have a S- or P- user ID, please raise your hand and the team will hand out a P-user ID to you. This will be handed out to you upon request. Please note that these won't work after TechEd.
+
+4. Now as you're logged in, navigate to the DDA via:
 https://techedrouter-a664064c8.dispatcher.hana.ondemand.com
 > [IMPORTANT]
 > This registration link will only work right now during the session. If you want to access the platform after TechEd, please bookmark the URL to your assessment that will open once you went through above link.
 
 
-3. Login with your S- or P- user ID. This will ensure that you have access after TechEd as well.
-4. In case you do not have a S- or P- user ID please use one of the P-user IDs below, but note that these won't work after TechEd.
 
-> P-Users:
-> 
 
 ## 2. What is a scope item?
 
@@ -53,5 +54,7 @@ Early 2026 these steps will be automated but right now this involves a manual do
 ## Summary & Next Steps
 
 You've now finished the Digital Discovery Assessment exercises. Please continue with the next Exercise for SAP Cloud ALM.
+
+> In case you were not able to complete all steps above, the exports are available in the Git repo under [Ex1 - Export Files Backup](../ex1/export-files-backup/)
 
 Continue to - [Exercise 2 - SAP Cloud ALM](../ex2/Ex2-CALM.md)
