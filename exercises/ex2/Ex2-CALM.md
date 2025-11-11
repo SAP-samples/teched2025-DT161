@@ -10,7 +10,7 @@
 
 > **For Sydney Teched only:**
 <br> Username: DT161-1##@education.cloud.sap
-<br> Password: Acce$$teched25
+<br> Password: MasteringSAP25
  
 > **For Banaglore Teched only:** 
 <br> Username: DT161-2##@education.cloud.sap
@@ -177,7 +177,7 @@ Select the item Specify Primary Finance Settings and click the symbol on the rig
 
 ```terraform
     Username: DT161-###@education.cloud.sap
-    Password: Acce$$teched25
+    Password: MasteringSAP25
 ```
 
 **Note:** You might have to switch  the workspace in CBC. Please select the DT161 workspace and continue.
