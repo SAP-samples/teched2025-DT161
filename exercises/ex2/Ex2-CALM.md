@@ -10,7 +10,7 @@
 
 > **For Sydney Teched only:**
 <br> Username: DT161-1##@education.cloud.sap
-<br> Password: Acce$$teched25
+<br> Password: MasteringSAP25
  
 > **For Banaglore Teched only:** 
 <br> Username: DT161-2##@education.cloud.sap
@@ -220,4 +220,5 @@ Select the item Specify Primary Finance Settings and click the symbol on the rig
 
 
 Continue to - [Exercise 3 - SAP Central Business Configuration](../ex3/Ex3-CBC.md)
+
 
