@@ -21,7 +21,7 @@ Workspace have been already precreated in the system for the excersie, neverthel
 
 **Exercise:**
 
-1. Open [SAP Central Business Configuration](https://my23353939.trn01.cbc.eu.one.cloud.sap/) in a new browser tab. 
+1. Open [SAP Central Business Configuration](https://my90267828.trn01.cbc.eu.one.cloud.sap/) in a new browser tab. 
 
 2. Log on with the user credentials provided.  
 
@@ -66,6 +66,7 @@ With this, you have completed the exercise.
 - [Configuration Localization Tool Restrictions and Limitations](https://me.sap.com/notes/3107866)
 - [Import Scope](https://education.hana.ondemand.com/education/pub/cbc/index.html?show=project%21PR_4CF48037E39416B7:uebung) as interactive tutorial or PDF 
 - [Import Scope](https://help.sap.com/docs/CENTRAL_BUSINESS_CONFIGURATION/55c9333eed324cd284f6c4e5dab8462f/4d6edb7e901c401bbafcd42ab06f2866.html?locale=en-US) documentation on SAP Help Portal
+
 
 
 
