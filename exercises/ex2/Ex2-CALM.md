@@ -104,7 +104,7 @@ In case the screen looks different, check your filter settings or use the Browse
 33.	Click on the task *Conduct Fit Standard*
  
 ![SAP BTP Account explorer - subdomain](./images/10.png)
- 
+
 34.	A window with the task overview opens on the right. Click the symbol next to Create Sub task (the one that looks like a process step/document)
  
 ![SAP BTP Account explorer - subdomain](./images/11.png)
