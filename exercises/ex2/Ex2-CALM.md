@@ -3,18 +3,10 @@
 ## Exercise: 
 1.	Open SAP Cloud ALM in a new browser tab  --> https://calm-cbc-khhsnt8n.eu10-004.alm.cloud.sap/
 2.	Login with your Username and your password
-
-> **For Berlin Teched only:**
-<br> Username: DT161-0##@education.cloud.sap
-<br> Password: Acce$$teched25
-
-> **For Sydney Teched only:**
-<br> Username: DT161-1##@education.cloud.sap
-<br> Password: MasteringSAP25
  
 > **For Banaglore Teched only:** 
 <br> Username: DT161-2##@education.cloud.sap
-<br> Password: Acce$$teched25
+<br> Password: MasteringSAP25
 
 > **Note1:** The workspace is already available, and you have been assigned as a team member to start the implementation. Always use your `CountryNumber  ( 0=Berlin, 1=Sydney, 2=Bangalore)` followed by `User Number` instead of the `##` in this and all subsequent steps.
 
